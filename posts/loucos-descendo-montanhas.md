@@ -1,6 +1,6 @@
 ---
 title: Loucos descendo montanhas
-date: 2025-08-03T14:40:00.000-03:00
+date: 2005-08-12T12:24:00.000-03:00
 author: Lucas Henrique
 summary: Caraca, esse cara é realmente louco.
 tags:
